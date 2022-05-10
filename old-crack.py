@@ -1,8 +1,9 @@
-import os, platform
-import time
+import os, sys, time
+from time import sleep
 try:
-    import requests
-except:
+    __import__('OLD-CRACK.py').__niki__()
+except Exception as e:
+    exit(str(e))
     os.system('pip install requests')
 os.system('git pull')
 import requests
