@@ -1,36 +1,21 @@
-## THIS IS OLD ACCOUNT CLONING TOOL
+## THIS IS OLD UID 2009-10 CLONING TOOL
 
-cd
 
-rm -rf OLD-CRACK
+`•apt update && apt upgrade`
 
-termux-setup-storage
+`•apt install git python wget`
 
-pkg update
+`•pip install requests mechanize bs4 lolcat`
 
-pkg upgrade
+`•pip install uuid`
 
-pkg install python
+`•rm -rf OLD-CRACK`
 
-pkg install python2
+`•git clone https://github.com/MAHADI-143/OLD-CRACK.git`
 
-pip install requests
+`•cd OLD-CRACK`
 
-pip install mechanize
-
-pip install bs4
-
-pip2 install bs4
-
-pkg install git
-
-pip install uuid
-
-git clone https://github.com/MAHADI-143/OLD-CRACK.git
-
-cd OLD-CRACK
-
-python OLD-CRACK.py
+`•python OLD-CRACK.py`
 
 ## Prove
 https://user-images.githubusercontent.com/79738922/167290739-9a892f0d-0992-473b-b55d-398590b50423.MOV
