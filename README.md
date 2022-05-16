@@ -1,4 +1,4 @@
-## THIS IS OLD UID 2009-10 CLONING TOOL
+![F8A7D759-8513-4FBA-91C0-5287E0717F88](https://user-images.githubusercontent.com/79738922/168621607-1cc74a42-ba8b-44a8-b635-c23220c15b6d.png)
 
 
 `•apt update && apt upgrade`
