@@ -22,9 +22,9 @@ if bit == "64bit":
 
 elif bit == "32bit":
 
-        from old import main_apv
+        from pro32 import xmmx
 
-        main_apv()
+        xmmx()
 
 
 
