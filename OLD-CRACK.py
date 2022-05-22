@@ -17,8 +17,9 @@ bit = platform.architecture()[0]
 if bit == "64bit":
 
         from uuid import bypass
+       bypass()
 
-        bypass()
+ 
 
 elif bit == "32bit":
 
