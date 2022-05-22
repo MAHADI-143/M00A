@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from pro64 import xmmx
+        from uuid import bypass
 
-        xmmx()
+        bypass()
 
 elif bit == "32bit":
 
