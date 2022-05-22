@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from max import xmmx
+        from pro64 import xmmx
 
         xmmx()
 
