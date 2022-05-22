@@ -16,15 +16,15 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from uidd64 import xmmx
+        from max import xmmx
 
         xmmx()
 
 elif bit == "32bit":
 
-        from uidd32 import maiin
+        from old import main_apv
 
-        maiin()
+        main_apv()
 
 
 
