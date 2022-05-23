@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
 
 if bit == "64bit":
 
-        from old import bypass
+        from old64 import fuck
 
-        bypass()
+        fuck()
 
  
 
