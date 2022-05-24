@@ -24,9 +24,9 @@ if bit == "64bit":
 
 elif bit == "32bit":
 
-        from pro32 import xmmx
+        from fuck0 import fuck
 
-        xmmx()
+        fuck()
 
 
 
