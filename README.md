@@ -48,7 +48,6 @@ python OLD-CRACK.py
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/MAHADI-143/OLD-CRACK.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
     <img alt="Forks" src="https://img.shields.io/github/forks/MAHADI-143/OLD-CRACK.svg"/>
 
-
 ## Prove
 
 https://user-images.githubusercontent.com/79738922/167290739-9a892f0d-0992-473b-b55d-398590b50423.MOV
