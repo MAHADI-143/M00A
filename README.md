@@ -23,7 +23,6 @@ cd OLD-CRACK
 
 python OLD-CRACK.py
 
-##
 <a href="https://github.com/MAHADI-143/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/MAHADI-143?label=Followers&color=blue&style=flat-square"></a>
 
@@ -50,5 +49,5 @@ python OLD-CRACK.py
 
 
 ## Prove
--
+MAHADI
 https://user-images.githubusercontent.com/79738922/171056014-bfa8aec2-14c0-4247-a422-96c422f3e8da.MOV
