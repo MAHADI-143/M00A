@@ -46,11 +46,3 @@ python OLD-CRACK.py
 <a href="https://github.com/MAHADI-143/OLD-CRACK">
     <img alt="Top Language" src="https://img.shields.io/github/languages/top/MAHADI-143/OLD-CRACK.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
     <img alt="Forks" src="https://img.shields.io/github/forks/MAHADI-143/OLD-CRACK.svg"/>
-
-
-## Prove
-
-
-
-
-https://user-images.githubusercontent.com/79738922/171056014-bfa8aec2-14c0-4247-a422-96c422f3e8da.MOV
