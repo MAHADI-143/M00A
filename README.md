@@ -50,7 +50,5 @@ python OLD-CRACK.py
 
 
 ## Prove
-
-https://user-images.githubusercontent.com/79738922/171056014-bfa8aec2-14c0-4247-a422-96c422f3e8da.MOV
-
+-
 https://user-images.githubusercontent.com/79738922/171056014-bfa8aec2-14c0-4247-a422-96c422f3e8da.MOV
