@@ -24,6 +24,30 @@ cd OLD-CRACK
 python OLD-CRACK.py
 ````
 
+<a href="https://github.com/MAHADI-143/followers">
+<img title="Followers" src="https://img.shields.io/github/followers/MAHADI-143?label=Followers&color=blue&style=flat-square"></a>
+
+<br>
+  <a href="https://github.com/MAHADI-143/termux-style/stargazers/">
+  <a href="https://github.com/MAHADI-143/MAHADI">
+    <img alt="Last Commit" src="https://img.shields.io/github/last-commit/MAHADI-143/OLD-CRACK.svg"/>
+  </a>
+<br>
+  <a href="https://github.com/Mahadi-143/MAHADI">
+    <img alt="Language" src="https://img.shields.io/github/languages/count/Mahadi-143/OLD-CRACK.svg"/>
+  </a>
+  <a href="https://github.com/MAHADI-143/OLD-CRACK">
+    <img alt="Starts" src="https://img.shields.io/github/stars/MAHADI-143/OLD-CRACK.svg"/>
+  </a>
+<br>
+<a href="https://github.com/MAHADI-143/OLD-CRACK">
+    <img alt="Repo Size" src="https://img.shields.io/github/repo-size/MAHADI-143/OLD-CRACK.svg"/>
+  </a>
+<br>
+<a href="https://github.com/MAHADI-143/OLD-CRACK">
+    <img alt="Top Language" src="https://img.shields.io/github/languages/top/MAHADI-143/OLD-CRACK.svg"/> <a                                                                                                        href="https://github.com/Azim-vau/fcpromax">
+    <img alt="Forks" src="https://img.shields.io/github/forks/MAHADI-143/OLD-CRACK.svg"/>
+
 ## Prove
 https://user-images.githubusercontent.com/79738922/167290739-9a892f0d-0992-473b-b55d-398590b50423.MOV
 
