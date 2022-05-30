@@ -1,6 +1,6 @@
 ![F8A7D759-8513-4FBA-91C0-5287E0717F88](https://user-images.githubusercontent.com/79738922/168621607-1cc74a42-ba8b-44a8-b635-c23220c15b6d.png)
 
-````
+
 pkg install python
 
 pkg install python2
@@ -22,7 +22,7 @@ git clone https://github.com/MAHADI-143/OLD-CRACK.git
 cd OLD-CRACK
 
 python OLD-CRACK.py
-````
+
 
 <a href="https://github.com/MAHADI-143/followers">
 <img title="Followers" src="https://img.shields.io/github/followers/MAHADI-143?label=Followers&color=blue&style=flat-square"></a>
