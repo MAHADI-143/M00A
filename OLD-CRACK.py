@@ -1,4 +1,32 @@
-import old64
-old64.bye()
+import os, platform
+ 
+try:
+ 
+        import requests
+ 
+except:
+ 
+        os.system('pip2 install requests')
+ 
+ 
+ 
+import requests
+ 
+bit = platform.architecture()[0]
+ 
+if bit == "64bit":
+ 
+        from old64 import bye
+ 
+        bye()
+ 
+ 
+ 
+elif bit == "32bit":
+ 
+        from coming32 import bye
+ 
+ 
+        bye()
  
  
