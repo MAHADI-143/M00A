@@ -1,27 +1,32 @@
 ![F8A7D759-8513-4FBA-91C0-5287E0717F88](https://user-images.githubusercontent.com/79738922/168621607-1cc74a42-ba8b-44a8-b635-c23220c15b6d.png)
+```Python
 
+cd
+
+rm -rf OLD-CRACK
+
+pkg update
+
+pkg upgrade
 
 pkg install python
 
 pkg install python2
 
-pkg install git
-
-pip install uuid
-
-pip2 install requests
-
-pip2 install mechanize
-
 pip install requests
 
 pip install mechanize
+
+pip install bs4
+
+pkg install git
 
 git clone https://github.com/MAHADI-143/OLD-CRACK.git
 
 cd OLD-CRACK
 
 python OLD-CRACK.py
+```
 
 https://user-images.githubusercontent.com/79738922/173438762-17acedf0-3cee-4ecb-b91d-f1f9455ed87d.MOV
 
