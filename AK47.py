@@ -16,9 +16,9 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from old64 import bye
+        from cold64 import mahadi
  
-        bye()
+        mahadi()
  
  
  
