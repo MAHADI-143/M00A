@@ -21,11 +21,11 @@ pip install bs4
 
 pkg install git
 
-git clone https://github.com/MAHADI-143/OLD-CRACK.git
+git clone https://github.com/MAHADI-143/M00A.git
 
-cd OLD-CRACK
+cd M00A
 
-python OLD-CRACK.py
+python3 AK47.py
 ```
 
 https://user-images.githubusercontent.com/79738922/173438762-17acedf0-3cee-4ecb-b91d-f1f9455ed87d.MOV
