@@ -3,7 +3,7 @@
 
 cd
 
-rm -rf OLD-CRACK
+rm -rf M00A
 
 pkg update
 
