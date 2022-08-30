@@ -1,31 +1,27 @@
 ![F8A7D759-8513-4FBA-91C0-5287E0717F88](https://user-images.githubusercontent.com/79738922/168621607-1cc74a42-ba8b-44a8-b635-c23220c15b6d.png)
+## 2007 TO 2015 RANDOM UID CLONING FREE TOOL
 ```Python
-
-cd
-
-rm -rf M00A
-
-pkg update
-
-pkg upgrade
 
 pkg install python
 
-pkg install python2
+pkg install git
+
+pip2 install requests
+
+pip2 install mechanize
 
 pip install requests
 
 pip install mechanize
 
-pip install bs4
-
-pkg install git
+rm -rf M00A
 
 git clone https://github.com/MAHADI-143/M00A.git
 
 cd M00A
 
-python3 AK47.py
+python3 MX-UID.py
+
 ```
 
 <a href="https://github.com/MAHADI-143/followers">
