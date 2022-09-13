@@ -20,13 +20,3 @@ if bit == "64bit":
  
         mahadi()
  
- 
- 
-elif bit == "32bit":
- 
-        from old32 import bye
- 
- 
-        bye()
- 
- 
