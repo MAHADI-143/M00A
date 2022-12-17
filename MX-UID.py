@@ -16,7 +16,7 @@ bit = platform.architecture()[0]
  
 if bit == "64bit":
  
-        from cold64 import mahadi
+        from uid import mahadi
  
         mahadi()
  
